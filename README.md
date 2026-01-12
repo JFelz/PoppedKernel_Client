@@ -1,4 +1,4 @@
-# PoppedKernel Movie Site (Coming Soon)
+# SWIFT Longboard Store
 
 ## Overview
 This application was designed to provide an online presence to a faux longbaording business equipped with data analytics, CMS tools, and an administrator dashboard. SWIFT provides an all-in-one platform for customers like you to search for longboards from a variety of popular brands.
